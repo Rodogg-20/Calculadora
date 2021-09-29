@@ -350,7 +350,7 @@ public class Calculadora {
 
         jPanel1.setOpaque(false);
 
-        btn7.setBackground(new java.awt.Color(102, 102, 255));
+        btn7.setBackground(new java.awt.Color(25, 25, 112));
         btn7.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         btn7.setForeground(new java.awt.Color(255, 255, 255));
         btn7.setText("7");
@@ -360,7 +360,7 @@ public class Calculadora {
             }
         });
 
-        btn8.setBackground(new java.awt.Color(51, 153, 255));
+        btn8.setBackground(new java.awt.Color(25, 25, 112));
         btn8.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         btn8.setForeground(new java.awt.Color(255, 255, 255));
         btn8.setText("8");
@@ -370,7 +370,7 @@ public class Calculadora {
             }
         });
 
-        btn9.setBackground(new java.awt.Color(153, 255, 102));
+        btn9.setBackground(new java.awt.Color(25, 25, 112));
         btn9.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         btn9.setForeground(new java.awt.Color(255, 255, 255));
         btn9.setText("9");
@@ -380,7 +380,7 @@ public class Calculadora {
             }
         });
 
-        btn4.setBackground(new java.awt.Color(102, 153, 255));
+        btn4.setBackground(new java.awt.Color(25, 25, 112));
         btn4.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         btn4.setForeground(new java.awt.Color(255, 255, 255));
         btn4.setText("4");
@@ -390,7 +390,7 @@ public class Calculadora {
             }
         });
 
-        btn5.setBackground(new java.awt.Color(0, 153, 153));
+        btn5.setBackground(new java.awt.Color(25, 25, 112));
         btn5.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         btn5.setForeground(new java.awt.Color(255, 255, 255));
         btn5.setText("5");
@@ -400,7 +400,7 @@ public class Calculadora {
             }
         });
 
-        btn6.setBackground(new java.awt.Color(51, 204, 0));
+        btn6.setBackground(new java.awt.Color(25, 25, 112));
         btn6.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         btn6.setForeground(new java.awt.Color(255, 255, 255));
         btn6.setText("6");
@@ -410,7 +410,7 @@ public class Calculadora {
             }
         });
 
-        btn1.setBackground(new java.awt.Color(0, 153, 102));
+        btn1.setBackground(new java.awt.Color(25, 25, 112));
         btn1.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         btn1.setForeground(new java.awt.Color(255, 255, 255));
         btn1.setText("1");
@@ -420,7 +420,7 @@ public class Calculadora {
             }
         });
 
-        btn2.setBackground(new java.awt.Color(0, 153, 102));
+        btn2.setBackground(new java.awt.Color(25, 25, 112));
         btn2.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         btn2.setForeground(new java.awt.Color(255, 255, 255));
         btn2.setText("2");
@@ -430,7 +430,7 @@ public class Calculadora {
             }
         });
 
-        btn3.setBackground(new java.awt.Color(204, 204, 0));
+        btn3.setBackground(new java.awt.Color(25, 25, 112));
         btn3.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         btn3.setForeground(new java.awt.Color(255, 255, 255));
         btn3.setText("3");
@@ -440,7 +440,7 @@ public class Calculadora {
             }
         });
 
-        btn0.setBackground(new java.awt.Color(0, 153, 153));
+        btn0.setBackground(new java.awt.Color(25, 25, 112));
         btn0.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         btn0.setForeground(new java.awt.Color(255, 255, 255));
         btn0.setText("0");
@@ -450,7 +450,7 @@ public class Calculadora {
             }
         });
 
-        btnClean.setBackground(new java.awt.Color(0, 102, 51));
+        btnClean.setBackground(new java.awt.Color(255, 255, 255));
         btnClean.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         btnClean.setForeground(new java.awt.Color(255, 255, 255));
         btnClean.setText("DEL");
@@ -515,7 +515,7 @@ public class Calculadora {
 
         jPanel2.setOpaque(false);
 
-        btnParI.setBackground(new java.awt.Color(255, 204, 0));
+        btnParI.setBackground(new java.awt.Color(25, 25, 112));
         btnParI.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         btnParI.setForeground(new java.awt.Color(255, 255, 255));
         btnParI.setText("(");
@@ -525,7 +525,7 @@ public class Calculadora {
             }
         });
 
-        btnParD.setBackground(new java.awt.Color(255, 51, 102));
+        btnParD.setBackground(new java.awt.Color(25, 25, 112));
         btnParD.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         btnParD.setForeground(new java.awt.Color(255, 255, 255));
         btnParD.setText(")");
@@ -535,7 +535,7 @@ public class Calculadora {
             }
         });
 
-        btnSum.setBackground(new java.awt.Color(255, 102, 102));
+        btnSum.setBackground(new java.awt.Color(25, 25, 112));
         btnSum.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         btnSum.setForeground(new java.awt.Color(255, 255, 255));
         btnSum.setText("+");
@@ -545,7 +545,7 @@ public class Calculadora {
             }
         });
 
-        btnRest.setBackground(new java.awt.Color(204, 0, 153));
+        btnRest.setBackground(new java.awt.Color(25, 25, 112));
         btnRest.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         btnRest.setForeground(new java.awt.Color(255, 255, 255));
         btnRest.setText("-");
@@ -555,7 +555,7 @@ public class Calculadora {
             }
         });
 
-        btnMult.setBackground(new java.awt.Color(255, 102, 51));
+        btnMult.setBackground(new java.awt.Color(25, 25, 112));
         btnMult.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         btnMult.setForeground(new java.awt.Color(255, 255, 255));
         btnMult.setText("x");
@@ -565,7 +565,7 @@ public class Calculadora {
             }
         });
 
-        btnDiv.setBackground(new java.awt.Color(255, 153, 153));
+        btnDiv.setBackground(new java.awt.Color(25, 25, 112));
         btnDiv.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         btnDiv.setForeground(new java.awt.Color(255, 255, 255));
         btnDiv.setText("÷");
@@ -575,7 +575,7 @@ public class Calculadora {
             }
         });
 
-        btnPunto.setBackground(new java.awt.Color(255, 51, 51));
+        btnPunto.setBackground(new java.awt.Color(25, 25, 112));
         btnPunto.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         btnPunto.setForeground(new java.awt.Color(255, 255, 255));
         btnPunto.setText(".");
@@ -585,7 +585,7 @@ public class Calculadora {
             }
         });
 
-        btnSigNeg.setBackground(new java.awt.Color(255, 102, 204));
+        btnSigNeg.setBackground(new java.awt.Color(25, 25, 112));
         btnSigNeg.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
         btnSigNeg.setForeground(new java.awt.Color(255, 255, 255));
         btnSigNeg.setText("(-)");
